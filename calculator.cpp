@@ -21,12 +21,12 @@ int main()
 {
     char ch;
     double a, b;
-    cout<<"some rule:"<<endl;
-    cout<<"for add, char = + ;"<<endl;
-    cout<<"for sub, char = - ;"<<endl;
-    cout<<"for mult, char = * ;"<<endl;
-    cout<<"for div, char = / ;"<<endl;
-    cout<<"for exit, char = x ;"<<endl;
+    cout<<"=====SOME RULE====="<<endl;
+    cout<<"For add, char = + ;"<<endl;
+    cout<<"For sub, char = - ;"<<endl;
+    cout<<"For mult, char = * ;"<<endl;
+    cout<<"For div, char = / ;"<<endl;
+    cout<<"For exit, char = x ;"<<endl;
     while (1)
     {
         cout << "enter your char" << endl;
