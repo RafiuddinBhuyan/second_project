@@ -22,17 +22,17 @@ int main()
     string ch;
     double a, b;
     cout<<"=====SOME RULE====="<<endl;
-    cout<<"For add, optn = + ;"<<endl;
-    cout<<"For sub, optn = - ;"<<endl;
-    cout<<"For mult, optn = * ;"<<endl;
-    cout<<"For div, optn = / ;"<<endl;
-    cout<<"For sin, optn = SIN ;"<<endl;
-    cout<<"For sin, optn = COS ;"<<endl;
-    cout<<"For sin, optn = TEN ;"<<endl;
-    cout<<"For exit, optn = x ;"<<endl;
+    cout<<"For add, OPTN = + ;"<<endl;
+    cout<<"For sub, OPTN = - ;"<<endl;
+    cout<<"For mult, OPTN = * ;"<<endl;
+    cout<<"For div, OPTN = / ;"<<endl;
+    cout<<"For sin, OPTN = SIN ;"<<endl;
+    cout<<"For sin, OPTN = COS ;"<<endl;
+    cout<<"For sin, OPTN = TEN ;"<<endl;
+    cout<<"For exit, OPTN = x ;"<<endl;
     while (1)
     {
-        cout << "enter your char" << endl;
+        cout << "Enter your OPTN" << endl;
         cin >> ch;
         if (ch == "+")
         {
