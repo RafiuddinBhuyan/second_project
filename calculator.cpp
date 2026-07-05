@@ -72,6 +72,7 @@ int main()
         }
         else if (ch == "x")
         {
+            cout<<"Thank You"<<endl;
             return 0;
         }
     }
