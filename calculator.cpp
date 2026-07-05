@@ -26,6 +26,9 @@ int main()
     cout<<"For sub, char = - ;"<<endl;
     cout<<"For mult, char = * ;"<<endl;
     cout<<"For div, char = / ;"<<endl;
+    cout<<"For sin, char = SIN ;"<<endl;
+    cout<<"For sin, char = SIN ;"<<endl;
+    cout<<"For sin, char = SIN ;"<<endl;
     cout<<"For exit, char = x ;"<<endl;
     while (1)
     {
@@ -54,6 +57,18 @@ int main()
             cout << "enter your tow element" << endl;
             cin >> a >> b;
             cout << div(a, b) << endl;
+        }
+        else if (ch == 'SIN')
+        {
+            cout << "thats will be updated" << endl;
+        }
+        else if (ch == 'COS')
+        {
+            cout << "thats will be updated" << endl;
+        }
+        else if (ch == 'TEN')
+        {
+            cout << "thats will be updated" << endl;
         }
         else if (ch == 'x')
         {
